@@ -9,7 +9,7 @@ public class FirstOopClass {
 		myBox.width = 3;
 		myBox.height = 4;
 
-		double obyem = myBox.height * myBox.length * myBox.width;
+		double obyem = myBox.Obyem();
 		System.out.println(obyem);
 	}
 
